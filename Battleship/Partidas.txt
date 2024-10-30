@@ -1,0 +1,28 @@
+
+ Partida de:Tatis
+ Jugada el: 22-11-2023 11:16:40
+ Turno #1
+ Turno de: Tatis
+ Disparo en:A4
+ Estado disparo: Impacto
+ Disparo en:B5
+ Estado disparo: Impacto
+ Disparo en:B6
+ Estado disparo: Impacto
+ Disparo en:B7
+ Estado disparo: Impacto
+_______Se detuvo el programa_______
+
+
+
+Partida de:Tatis
+Jugada el: 22-11-2023 11:21:19
+Turno #1
+Turno de: Tatis
+Disparo en:A1
+Estado disparo: Impacto
+Disparo en:A10
+Estado disparo: Impacto
+Disparo en:B1
+Estado disparo: Impacto
+_______Se detuvo el programa_______
